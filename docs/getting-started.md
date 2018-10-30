@@ -1,7 +1,3 @@
-# Getting started
-
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
