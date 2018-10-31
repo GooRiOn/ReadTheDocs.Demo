@@ -1,13 +1,8 @@
-## Commands
+## How to run the code?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus consectetur dui a quam congue faucibus. Ut nibh augue, maximus quis nibh quis, faucibus varius ante.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## How to run unit tests?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus consectetur dui a quam congue faucibus. Ut nibh augue, maximus quis nibh quis, faucibus varius ante.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## How to attach to the application?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus consectetur dui a quam congue faucibus. Ut nibh augue, maximus quis nibh quis, faucibus varius ante.
